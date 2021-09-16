@@ -8,6 +8,18 @@
 >* Spring Cloud
 >* Eureka
 >* H2 DB
-
+  
 ## 시스템 구성
 > ![image](https://user-images.githubusercontent.com/76868571/133599444-77225bd5-c70c-4b39-bc9b-a056cb313985.png)
+
+## 기능
+> * user Micro service
+>   + 사용자 등록
+>   + 사용자 전체 조회
+>   + 사용자 정보 조회
+>   + 환영 메시지
+> * catalog Micro service
+>   + 상품 목록 조회
+> * order Micro service
+>   + 회원 상품 주문
+>   + 회원 주문 내역 조회
